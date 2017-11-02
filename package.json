@@ -1,0 +1,25 @@
+{
+  "name": "pbay",
+  "version": "1.0.3",
+  "description": "Search on piratebay",
+  "main": "index.js",
+  "author": "Adrian Martin",
+  "license": "ISC",
+  "deprecated": false,
+  "keywords": [
+    "piratebay",
+    "cli",
+    "terminal"
+  ],
+  "dependencies": {
+    "array-sort": "^0.1.4",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-spinner": "^0.2.7",
+    "colors": "^1.1.2",
+    "commander": "^2.11.0",
+    "querystring": "^0.2.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "word-wrap": "^1.2.3"
+  }
+}
